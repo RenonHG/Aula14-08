@@ -1,0 +1,7 @@
+C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex3 Conversão de Temperatura\Ex3 Conversão de Temperatura\obj\Debug\Ex3 Conversão de Temperatura.csproj.AssemblyReference.cache
+C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex3 Conversão de Temperatura\Ex3 Conversão de Temperatura\obj\Debug\Ex3 Conversão de Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex3 Conversão de Temperatura\Ex3 Conversão de Temperatura\bin\Debug\Ex3 Conversão de Temperatura.exe.config
+C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex3 Conversão de Temperatura\Ex3 Conversão de Temperatura\bin\Debug\Ex3 Conversão de Temperatura.exe
+C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex3 Conversão de Temperatura\Ex3 Conversão de Temperatura\bin\Debug\Ex3 Conversão de Temperatura.pdb
+C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex3 Conversão de Temperatura\Ex3 Conversão de Temperatura\obj\Debug\Ex3 Conversão de Temperatura.exe
+C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex3 Conversão de Temperatura\Ex3 Conversão de Temperatura\obj\Debug\Ex3 Conversão de Temperatura.pdb
