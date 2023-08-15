@@ -5,3 +5,11 @@ C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex2 Troco de Compra\Ex2 Troco de
 C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex2 Troco de Compra\Ex2 Troco de Compra\obj\Debug\Ex2 Troco de Compra.csproj.CoreCompileInputs.cache
 C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex2 Troco de Compra\Ex2 Troco de Compra\obj\Debug\Ex2 Troco de Compra.exe
 C:\Users\renon\SkyDrive\Área de Trabalho\Teste\Ex2 Troco de Compra\Ex2 Troco de Compra\obj\Debug\Ex2 Troco de Compra.pdb
+C:\Users\renon.hgusson\source\repos\Aula14-08\Ex2 Troco de Compra\Ex2 Troco de Compra\bin\Debug\Ex2 Troco de Compra.exe.config
+C:\Users\renon.hgusson\source\repos\Aula14-08\Ex2 Troco de Compra\Ex2 Troco de Compra\bin\Debug\Ex2 Troco de Compra.exe
+C:\Users\renon.hgusson\source\repos\Aula14-08\Ex2 Troco de Compra\Ex2 Troco de Compra\bin\Debug\Ex2 Troco de Compra.pdb
+C:\Users\renon.hgusson\source\repos\Aula14-08\Ex2 Troco de Compra\Ex2 Troco de Compra\obj\Debug\Ex2 Troco de Compra.csproj.AssemblyReference.cache
+C:\Users\renon.hgusson\source\repos\Aula14-08\Ex2 Troco de Compra\Ex2 Troco de Compra\obj\Debug\Ex2 Troco de Compra.csproj.SuggestedBindingRedirects.cache
+C:\Users\renon.hgusson\source\repos\Aula14-08\Ex2 Troco de Compra\Ex2 Troco de Compra\obj\Debug\Ex2 Troco de Compra.csproj.CoreCompileInputs.cache
+C:\Users\renon.hgusson\source\repos\Aula14-08\Ex2 Troco de Compra\Ex2 Troco de Compra\obj\Debug\Ex2 Troco de Compra.exe
+C:\Users\renon.hgusson\source\repos\Aula14-08\Ex2 Troco de Compra\Ex2 Troco de Compra\obj\Debug\Ex2 Troco de Compra.pdb
